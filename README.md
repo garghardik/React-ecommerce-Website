@@ -1,2 +1,3 @@
-# react-e-commerce-website
+# STORE WITH MORE
+react-e-commerce-website
 
